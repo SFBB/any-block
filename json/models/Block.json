@@ -399,7 +399,13 @@
                         "NumberOfDaysAgo",
                         10,
                         "NumberOfDaysNow",
-                        11
+                        11,
+                        "LastYear",
+                        12,
+                        "CurrentYear",
+                        13,
+                        "NextYear",
+                        14
                     ],
                     "oneOf": [
                         {
@@ -1062,7 +1068,11 @@
                         "Sketchfab",
                         21,
                         "Image",
-                        22
+                        22,
+                        "Drawio",
+                        23,
+                        "Spotify",
+                        24
                     ],
                     "oneOf": [
                         {
